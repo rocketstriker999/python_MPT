@@ -12,7 +12,8 @@ This Tooklkit with Linux.
 It works with Windows too, but there are high chances of instability and bugs.
 
 <p align="center">
-  <img src="/screenshots/1.jpeg" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="/screenshots/1.jpeg" width="350" >
+  <img src="/screenshots/1.jpeg" width="350" >
+  <img src="/screenshots/1.jpeg" width="350" >
+  <img src="/screenshots/1.jpeg" width="350" >
 </p>
-
