@@ -1,8 +1,13 @@
-MPT is made for pentest only...and Good Purposes...Use it for good purpose
+Master Pen Test Tool is a toolkit made for penetration testing purpose.
 
-we are not responsible for any kind of damage done by this tool
+It contains majorly 3 types of tools
+1) Web Pen Testing
+2) Wireless Pen Testing
+3) Host/OS Level Pen Testing
 
-we advice you to use this tool on linux...because it is more compitable for linux
+The MPT tool kit is designed in python, hence python is a dependency. 
+MPT is more compitable with the Linxu OS, It is Highly recommended to use
+This Tooklkit with Linux.
 
-you can also use it on windows and other plateforms...but linux version of MPT has more utilities , functanality & stability
-so we highly recommand you to use it on linux like "BACKTRACK","KALI LINUX","UBANTU" etc etc...good day
+It works with Windows too, but there are high chances of instability and bugs.
+
