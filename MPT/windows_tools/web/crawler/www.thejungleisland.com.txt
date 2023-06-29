@@ -1,0 +1,35 @@
+
+[+]TARGET URL OR WEBSITE: http://www.thejungleisland.com/index.php
+
+[+]OUPUT FILE: www.thejungleisland.com.txt
+
+[+]CRAWLING LINKS
+[+]http://www.thejungleisland.com/index.php
+[+]http://www.thejungleisland.com/
+[+]http://www.thejungleisland.com/addd.css
+[+]http://www.thejungleisland.com/admisions.php
+[+]http://www.thejungleisland.com/animaland.php
+[+]http://www.thejungleisland.com/bparties.php
+[+]http://www.thejungleisland.com/bumpercars.php
+[+]http://www.thejungleisland.com/concord.php
+[+]http://www.thejungleisland.com/contactus.php
+[+]http://www.thejungleisland.com/coupons.php
+[+]http://www.thejungleisland.com/fundraiser.php
+[+]http://www.thejungleisland.com/gallery.php
+[+]http://www.thejungleisland.com/groupsafaris.php
+[+]http://www.thejungleisland.com/images/jungle/179625a70be572f388950e443653637e.png
+[+]http://www.thejungleisland.com/images/jungle/5757e903c14b719fbde3f0466c8ccc8c.png
+[+]http://www.thejungleisland.com/images/jungle/f840fba7deca1df3b6662f59c1cceee4.png
+[+]http://www.thejungleisland.com/img/bestbay14.png
+[+]http://www.thejungleisland.com/img/facebook.png
+[+]http://www.thejungleisland.com/img/logo.ico
+[+]http://www.thejungleisland.com/img/logoisland.jpg
+[+]http://www.thejungleisland.com/img/twitter.png
+[+]http://www.thejungleisland.com/img/yelp.png
+[+]http://www.thejungleisland.com/jobaplication.php
+[+]http://www.thejungleisland.com/jquery.js
+[+]http://www.thejungleisland.com/js/ss.js
+[+]http://www.thejungleisland.com/lasertag.php
+[+]http://www.thejungleisland.com/mokie.php
+[+]http://www.thejungleisland.com/news.php
+[+]http://www.thejungleisland.com/overbparties.php

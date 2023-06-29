@@ -1,0 +1,27 @@
+  [+]	WELLKNOWN PORTS	   PROTOCOLS	APPLICATIONS
+
+  [+]	20		     TCP	 FTP DATA
+	
+  [+]	21		     TCP	 FTP CONTROL
+	
+  [+]	22		     TCP         SSH
+	
+  [+]	23		     TCP	 TELNET
+
+  [+]	25		     TCP	 SMTP
+
+  [+]	53		     TCP,UDP	 DNS
+
+  [+]	67,68		     UDP	 DHCP
+
+  [+]	69		     UDP	 TFTP
+
+  [+]	80		     TCP	 HTTP
+
+  [+]	110		     TCP	 POP3
+	
+  [+]	161		     UDP	 SNMP
+
+  [+]	443		     TCP      	 SSL
+
+  [+]	16,384-32,767	     UDP	 RTP BASED VOICE & VIDEO

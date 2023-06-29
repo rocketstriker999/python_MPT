@@ -1,0 +1,28 @@
+Installation Steps For Windows
+
+1.simply extract the MPT
+
+2.Then go to Library Folder and Simply Install all setup of python,perl,pyhook,pywin32
+
+3.now last step in which you have to copy requests and coloramam and pxssh folders from libraries and copy requests and coloramam and pxssh folders to python
+  installed folder and then go to lib and then go to site-packages and copy there and thats it
+
+	example C:\Python27\Lib\site-packages\and copy the request folder here
+
+4.now you can lauch the MPT
+
+
+Installation Steps For Linux
+
+1.Install python from http://python.org and also you wil need perl for that go to https://www.perl.org/
+
+2.thats it and click on 
+
+3.now simply run MPT from Terminal by typing 'python MPT.py'
+
+4.enjoy
+
+
+
+
+...for any query please email at nisargjani20996@gmail.com
